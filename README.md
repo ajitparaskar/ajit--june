@@ -1,2 +1,2 @@
 # ajit--june
-this is practice for git and github class
+this is practice for git and github class.
